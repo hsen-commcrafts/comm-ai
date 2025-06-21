@@ -59,7 +59,7 @@ MODEL_PATH=model.ftz
 API_SECRET=your_shared_secret_key
 ```
 
-> 🔐 `HMAC_SECRET` must match what Laravel uses when calling this API.
+> 🔐 `API_SECRET` must match what Laravel uses when calling this API.
 
 ---
 
@@ -105,7 +105,7 @@ X-Signature: <HMAC_SHA256_signature>
 Signature is:
 
 ```text
-signature = HMAC_SHA256(timestamp + "|flow_request", HMAC_SECRET)
+signature = HMAC_SHA256(timestamp + "|flow_request", API_SECRET)
 ```
 
 Example Laravel usage:
@@ -113,7 +113,7 @@ Example Laravel usage:
 ```php
 $timestamp = time();
 $message = $timestamp . '|flow_request';
-$signature = hash_hmac('sha256', $message, env('HMAC_SECRET'));
+$signature = hash_hmac('sha256', $message, env('API_SECRET'));
 
 $response = Http::withHeaders([
     'X-Timestamp' => $timestamp,
