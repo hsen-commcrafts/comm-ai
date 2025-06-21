@@ -1,0 +1,225 @@
+__label__make_order I want to make an order
+__label__make_order wanna place order
+__label__make_order i wanna buy something
+__label__make_order how can I order?
+__label__make_order can I place an order pls
+__label__make_order pls help me order
+__label__make_order trying to buy but stuck
+__label__make_order i need to order fast
+__label__make_order want to purchase
+__label__make_order how to buy from you?
+__label__make_order do you take orders here?
+__label__make_order how do I place an order?
+__label__make_order send me order link
+__label__make_order need to make an order pls
+__label__make_order i need to buy this asap
+__label__make_order hey i wanna order this
+__label__make_order baddi atlob shi
+__label__make_order kif feene atlob?
+__label__make_order i wanna order
+__label__make_order pls send me link to buy
+__label__make_order 3am 7awel atlob bas ma zabtat
+__label__make_order how can i make the order
+__label__make_order byeb3to 3al beit?
+__label__make_order i need to order hal chi
+__label__make_order 3ayze atlob halla2
+__label__make_order sho tari2it el order?
+__label__make_order ana b libnen btwaslo?
+__label__make_order send order link plz
+__label__make_order let me buy this thing
+__label__make_order order please 🙏
+__label__make_order btsh7no 3a tripoli?
+__label__make_order i want to order now
+__label__make_order baddi 2atloub 2
+__label__make_order pls ba3doulé tari2a
+__label__make_order shira2 hal product kif?
+__label__make_order how do i get it?
+__label__make_order أود تقديم طلب
+__label__make_order كيف يمكنني الشراء؟
+__label__make_order هل يمكنني الطلب الآن؟
+__label__make_order أحتاج إلى هذا المنتج
+__label__make_order أريد طلب هذه القطعة
+__label__make_order أريد الشراء فوراً
+__label__make_order كيف أطلب منكم؟
+__label__make_order أريد شراء منتج
+__label__make_order هل لديكم خدمة الطلب؟
+__label__make_order أريد إجراء طلبية
+__label__make_order بدي أطلب
+__label__make_order كيف فيي أطلب؟
+__label__make_order عطوني لينك الطلب
+__label__make_order بدي أشتري
+__label__make_order حابب أشتري هالشي
+__label__make_order فيني أطلب من هون؟
+__label__make_order كيف بعمل أوردر؟
+__label__make_order عم جرب أطلب بس مش زابطة
+__label__make_order كيف بطلب؟
+__label__make_order بدي وحدة من هيدول
+
+
+
+__label__track_order where is my order
+__label__track_order my order didn’t arrive
+__label__track_order order status pls
+__label__track_order still waiting for my order
+__label__track_order is my order shipped?
+__label__track_order haven’t received anything yet
+__label__track_order no tracking info
+__label__track_order can u check my order?
+__label__track_order tracking number not working
+__label__track_order i placed an order days ago
+__label__track_order need update on my order
+__label__track_order it’s been 3 days no order
+__label__track_order any update about my delivery?
+__label__track_order delivery taking too long
+__label__track_order is my order on the way?
+__label__track_order wen el order?
+__label__track_order ma wsal la hala2
+__label__track_order 3am estanna min 3asr
+__label__track_order fi tracking number?
+__label__track_order la sh ma wsal chi
+__label__track_order t2akadtou sh7anto?
+__label__track_order order delayed?
+__label__track_order ba3d ma je
+__label__track_order 2emta bywsol?
+__label__track_order any update 3al order?
+__label__track_order mne7 kel chi bas wen el sh7n
+__label__track_order delay kteer 🙁
+__label__track_order fiyé 3rf order weno?
+__label__track_order sho sar bel request taba3é?
+__label__track_order badi a3ref wen el package
+__label__track_order wala chi wsal halla2
+__label__track_order lamma byousal el order?
+__label__track_order mfi tracking details
+__label__track_order 3am estanna delivery
+__label__track_order fe 7ada bichouf wen wsal?
+__label__track_order أين طلبي؟
+__label__track_order لم يصلني الطلب بعد
+__label__track_order هل تم شحن الطلب؟
+__label__track_order ما حالة طلبي؟
+__label__track_order متى يصل الطلب؟
+__label__track_order هل يمكنني تتبع طلبي؟
+__label__track_order كم المدة المتبقية لوصول طلبي؟
+__label__track_order ما هو رقم التتبع؟
+__label__track_order لم أستلم الطلب
+__label__track_order هل طلبي في الطريق؟
+__label__track_order وين صار طلبي؟
+__label__track_order ما وصلني شي
+__label__track_order في رقم تتبّع؟
+__label__track_order الطلب تأخر كتير
+__label__track_order بدي شوف وين صار
+__label__track_order بعدو ما وصل
+__label__track_order فيني أعرف وين الطلبية؟
+__label__track_order صارلو زمان بالطريق
+__label__track_order وين الأوردر؟
+__label__track_order في تأخير بالطلبية؟
+
+
+
+__label__talk_to_live_agent i want to talk to someone
+__label__talk_to_live_agent connect me to agent
+__label__talk_to_live_agent can I chat with a human?
+__label__talk_to_live_agent someone help me pls
+__label__talk_to_live_agent this bot not helping
+__label__talk_to_live_agent talk to a person pls
+__label__talk_to_live_agent i need real support
+__label__talk_to_live_agent live agent pls
+__label__talk_to_live_agent speak with support
+__label__talk_to_live_agent need to talk to someone now
+__label__talk_to_live_agent can I get customer service?
+__label__talk_to_live_agent i need help from a human
+__label__talk_to_live_agent want to speak to someone directly
+__label__talk_to_live_agent this is urgent pls talk to me
+__label__talk_to_live_agent can a person reply?
+__label__talk_to_live_agent fiyé ahki ma3 7ada?
+__label__talk_to_live_agent 7adan ysa3edne plz
+__label__talk_to_live_agent ana m7taje 7ada yrid
+__label__talk_to_live_agent hal bot ma fido
+__label__talk_to_live_agent pls agent
+__label__talk_to_live_agent connect me 2 human
+__label__talk_to_live_agent badi wa7ad yehki ma3e
+__label__talk_to_live_agent rdo 3layy please
+__label__talk_to_live_agent fiyé wa7ad y2ale?
+__label__talk_to_live_agent i want real person
+__label__talk_to_live_agent someone replyyy 😭
+__label__talk_to_live_agent ahki ma3 teamkom
+__label__talk_to_live_agent need human not bot
+__label__talk_to_live_agent wayn el support
+__label__talk_to_live_agent customer service plz
+__label__talk_to_live_agent mish fahme chi
+__label__talk_to_live_agent i need someone rn
+__label__talk_to_live_agent fe number 7adan yrid?
+__label__talk_to_live_agent أريد التحدث مع أحد
+__label__talk_to_live_agent هل يوجد دعم مباشر؟
+__label__talk_to_live_agent أحتاج إلى مساعدة بشرية
+__label__talk_to_live_agent أريد التواصل مع خدمة العملاء
+__label__talk_to_live_agent هل يمكنني التكلم مع ممثل؟
+__label__talk_to_live_agent أريد الرد من شخص
+__label__talk_to_live_agent الدعم لا يجيب
+__label__talk_to_live_agent هل يمكن لأحد مساعدتي؟
+__label__talk_to_live_agent هل يوجد أحد أستطيع محادثته؟
+__label__talk_to_live_agent لا أريد التحدث مع روبوت
+__label__learn_more أود معرفة المزيد
+__label__learn_more ما هو هذا المنتج؟
+__label__learn_more هل يمكنكم شرح الخدمة؟
+__label__learn_more أحتاج لمعلومات إضافية
+__label__learn_more ماذا تقدمون بالضبط؟
+__label__learn_more أريد تفاصيل أكثر
+__label__learn_more كيف تعمل هذه الخدمة؟
+__label__learn_more هل يمكنكم توضيح المنتج؟
+__label__learn_more أشرحوا لي أكثر
+__label__learn_more أريد أن أفهم الخدمة جيدًا
+
+
+__label__learn_more what do your products do?
+__label__learn_more i wanna know more
+__label__learn_more send me details
+__label__learn_more what is this?
+__label__learn_more what does this product do?
+__label__learn_more explain what you sell
+__label__learn_more i have questions about your stuff
+__label__learn_more more info pls
+__label__learn_more tell me about your services
+__label__learn_more how does it work?
+__label__learn_more what is this used for?
+__label__learn_more product description?
+__label__learn_more want to learn more
+__label__learn_more show me how it works
+__label__learn_more can you explain this?
+__label__learn_more sho heyde?
+__label__learn_more kif btishtghel?
+__label__learn_more i want info plz
+__label__learn_more explain more pls
+__label__learn_more 3touni details aktar
+__label__learn_more btfahemne 3l product?
+__label__learn_more m3refet chi 3an hal chi
+__label__learn_more i wanna understand hal chi
+__label__learn_more mfi info kafi
+__label__learn_more tell me what this does
+__label__learn_more ba3d shwayé tafasil
+__label__learn_more kif benefa3 hal chi?
+__label__learn_more sho ye3né hal item?
+__label__learn_more what’s the use?
+__label__learn_more can u show me features?
+__label__learn_more fe explanation 2ktar?
+__label__learn_more kif besta3mel hal shé?
+__label__learn_more describe more pls
+__label__learn_more أود معرفة المزيد
+__label__learn_more ما هو هذا المنتج؟
+__label__learn_more هل يمكنكم شرح الخدمة؟
+__label__learn_more أحتاج لمعلومات إضافية
+__label__learn_more ماذا تقدمون بالضبط؟
+__label__learn_more أريد تفاصيل أكثر
+__label__learn_more كيف تعمل هذه الخدمة؟
+__label__learn_more هل يمكنكم توضيح المنتج؟
+__label__learn_more أشرحوا لي أكثر
+__label__learn_more أريد أن أفهم الخدمة جيدًا
+__label__learn_more شو يعني هالشي؟
+__label__learn_more فيكن تشرحولي؟
+__label__learn_more بدي أعرف أكتر
+__label__learn_more هيدا شو؟
+__label__learn_more شو بتعملو؟
+__label__learn_more عطوني معلومات أكتر
+__label__learn_more كيف بيمشي هالمنتج؟
+__label__learn_more بدي افهم كيف بيشتغل
+__label__learn_more خبروني أكتر عن هالخدمة
+__label__learn_more فهموني شوي زيادة

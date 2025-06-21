@@ -1,0 +1,5 @@
+fasttext
+fastapi[standard]
+uvicorn
+numpy == 1.21.6
+dotenv
