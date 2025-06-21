@@ -24,8 +24,6 @@ class FlowBody(BaseModel):
 
 def verify_hmac(request: Request):
 
-    return
-
     signature = request.headers.get("X-Signature")
     timestamp = request.headers.get("X-Timestamp")
 
