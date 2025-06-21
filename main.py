@@ -10,12 +10,12 @@ from dotenv import load_dotenv
 load_dotenv()
 
 app = FastAPI(
-#     docs_url=None,     # disables Swagger UI (/docs)
-#     redoc_url=None,    # disables ReDoc UI (/redoc)
-#     openapi_url=None   # disables OpenAPI schema (/openapi.json)
+    docs_url=None,     # disables Swagger UI (/docs)
+    redoc_url=None,    # disables ReDoc UI (/redoc)
+    openapi_url=None   # disables OpenAPI schema (/openapi.json)
 )
 MODEL_PATH = os.getenv("MODEL_PATH")
-HMAC_SECRET = os.getenv("HMAC_SECRET")
+API_SECRET = os.getenv("API_SECRET")
 
 
 class FlowBody(BaseModel):
@@ -40,7 +40,7 @@ def verify_hmac(request: Request):
     # Create expected signature from timestamp + static message
     message = f"{timestamp}|flow_request"
     expected_signature = hmac.new(
-        HMAC_SECRET.encode(), message.encode(), hashlib.sha256
+        API_SECRET.encode(), message.encode(), hashlib.sha256
     ).hexdigest()
 
     if not hmac.compare_digest(expected_signature, signature):
