@@ -76,7 +76,7 @@ __label__track_order Where is my order?
 2. Run training:
 
 ```bash
-python train_model.py
+python3 train_model.py
 ```
 
 This will save `model.ftz` in the current directory.
